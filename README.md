@@ -1,4 +1,4 @@
-### Hello, 👋 I'm Alef Barbeli :octocat:
+<img src="/header.png" alt="Hello, I'm Alef Barbeli" />
 
 A **Front-end Engineer** and Vue specialist with 6+ years of experience building web apps with cutting-edge technologies like **Nuxt, Typescript, GraphQL, Tailwind CSS** and more. 
 
@@ -13,20 +13,4 @@ I love Open Source projects and working with fast-paced teams. Curious and creat
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/heitorramon/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/alef_the_dev?style=social)](https://twitter.com/alef_the_dev)
 
-
 ----------------------
-
-<table>
- <tr valign="top">
-  <td width="50%">
-   <img src="/github-metrics.svg" />
-   <img src="/metrics.plugin.achievements.compact.svg" />
-   <img src="/metrics.plugin.topics.svg"/>  
-  </td>
-  <td width="50%">
-   <img src="/metrics.plugin.contributions.svg" />
-   <img src="/metrics.plugin.followup.svg"/>
-   <img src="/metrics.plugin.languages.svg" />
-  </td>
- </tr>
-</table>
