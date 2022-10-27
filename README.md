@@ -10,7 +10,7 @@ I love Open Source projects and working with fast-paced teams. Curious and creat
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alefbarbeli)
 [![Github Badge](https://img.shields.io/github/followers/alefbarbeli?style=social)](https://github.com/alefbarbeli)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/heitorramon/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/alefbarbeli/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/alef_the_dev?style=social)](https://twitter.com/alef_the_dev)
 
 ----------------------
