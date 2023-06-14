@@ -1,6 +1,6 @@
 <img src="/header.png" alt="Hello, I'm Alef Barbeli" />
 
-A **Front-end Engineer** and Vue specialist with 6+ years of experience building web apps with cutting-edge technologies like **Nuxt, Typescript, GraphQL, Tailwind CSS** and more. 
+A **Full Stack Engineer** with 6+ years of experience building Web apps with cutting-edge technologies like **Nuxt, Typescript, Node, Vue, React, GraphQL, Tailwind CSS** and more. 
 
 Strongly experienced in ecommerce environment, I've already worked with different platforms like **Magento 1 and 2, Commercetools, Prestashop, SAP Commerce, Oracle Commerce Cloud and Vtex**.
 
